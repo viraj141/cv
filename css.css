@@ -1,0 +1,44 @@
+
+body{
+  background-color: #abedd8;
+}
+.a{
+  font-family: 'Merriweather', serif;
+  font-size:150%;
+  text-align: center;
+  color:#07689f;
+  margin:2%25%7%25%;
+}
+.profile{
+  text-align:center;
+
+
+}
+.middle-container{
+  background-color: white;
+}
+.skills{
+  text-align: center;
+}
+
+hr{
+  border: 3px groove silver;
+}
+.bottom-container{
+  text-align: center;
+}
+.contact-me{
+  text-align: center;
+  padding: 20px;
+}
+.btn
+{
+  text-decoration: none;
+}
+.bottom-container{
+    background-color: white;
+}
+.footer-link{
+  text-decoration: none;
+  padding: 20px;
+}
